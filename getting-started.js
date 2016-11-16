@@ -8,3 +8,8 @@ db.once('open', function() {
   // we're connected!
 });
 
+var kittySchema = mongoose.Schema({
+    name: String
+});
+
+var Kitten = mongoose.model('Kitten', kittySchema);

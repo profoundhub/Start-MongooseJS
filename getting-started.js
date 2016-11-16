@@ -8,3 +8,7 @@ db.once('open', function() {
   // we're connected!
 });
 
+var kittySchema = mongoose.Schema({
+    name: String
+});
+

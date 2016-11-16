@@ -1,0 +1,20 @@
+{
+  "name": "Start-MongooseJS",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "keywords": [],
+  "author": "Daniel Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profoundhub/Start-MongooseJS/issues"
+  },
+  "homepage": "https://github.com/profoundhub/Start-MongooseJS#readme",
+  "devDependencies": {
+    "yarn": "^0.17.2"
+  }
+}
